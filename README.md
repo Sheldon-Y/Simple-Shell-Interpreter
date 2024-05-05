@@ -1,6 +1,6 @@
 ### Simple Shell Interpreter (C in VisualStudioCode)
 
-> Implemented a basic Unix shell interpreter that supports command parsing, execution, environment variable management, as well as input/output redirection and piping functionalities.
+Implemented a basic Unix shell interpreter that supports command parsing, execution, environment variable management, as well as input/output redirection and piping functionalities.
 
 1. **Command Parsing**:
    - **Functionality**: Parses the user-entered command line text, including commands and their parameters, while handling special characters and quotes.
