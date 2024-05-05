@@ -1,4 +1,4 @@
-### Simple Shell Interpreter (C in VisualStudioCode)
+# Simple Shell Interpreter (C in VisualStudioCode)
 
 Implemented a basic Unix shell interpreter that supports command parsing, execution, environment variable management, as well as input/output redirection and piping functionalities.
 
